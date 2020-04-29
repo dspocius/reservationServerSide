@@ -1,0 +1,16 @@
+{
+  "name": "Reservations",
+  "description": "Reservations API for Doctor",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*",
+    "json": "*",
+    "moment": "^2.24.0",
+    "mongoose": "*",
+    "morgan": "*",
+    "rotating-file-stream": "*",
+    "winston": "*"
+  }
+}
